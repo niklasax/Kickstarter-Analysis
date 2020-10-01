@@ -1,7 +1,8 @@
 # Kickstarting with Excel
 
+
+
 ## Overview of Project
-  
 
 ### Purpose
 The purpose of this project was to gain familiarity with Excel by sorting, analyzing, summarizing and visualizing data. In this particular example, we looked at kickstarter data with the ultimate goal of determining if there are certain factors, if any, that make a kickstarter funding campaign successful.
