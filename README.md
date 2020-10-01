@@ -31,4 +31,4 @@ The first conclusion I draw is that size of goal and success rate are negatively
 One limitation of the dataset is that there is only data for 9 different categories. There are many more actual kickstarter categories than the 9 listed. Another limitation is that the currency isn't standardized. This makes analysis difficult since we can't compare across currencies without converting.
 
 - What are some other possible tables and/or graphs that we could create?
-We could've created line graphs to show the relationship of backers and success, we didnt use backers for any of these analyses. We also could've created a visualization (most likely another line graph) to compare the average length of a campaign to it's success rate. 
+We could've created line graphs to show the relationship of backers and success, we didnt use backers for any of these analyses. We also could've created a visualization, most likely another line graph, to compare the average length of a campaign to it's success rate. 
